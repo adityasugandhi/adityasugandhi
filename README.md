@@ -105,11 +105,11 @@ Kafka + Spark streaming on Kubernetes. Processing 500K+ events/day with exactly-
 
 ### Snake eating my contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityasugandhi/adityasugandhi/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> To enable the snake animation, add a GitHub Actions workflow to your profile repo. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasugandhi/adityasugandhi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasugandhi/adityasugandhi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasugandhi/adityasugandhi/output/github-snake.svg" />
+</picture>
 
 ---
 
