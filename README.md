@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://adityasugandhi.com"><img src="https://img.shields.io/badge/Portfolio-adityasugandhi.com-1877F2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/adityasugandhi](https://www.linkedin.com/in/sugandhiaditya/)"><img src="https://img.shields.io/badge/LinkedIn-adityasugandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sugandhiaditya/"><img src="https://img.shields.io/badge/LinkedIn-adityasugandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adityasugandhi.work@outlook.com"><img src="https://img.shields.io/badge/Email-adityasugandhi.work-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=adityasugandhi&style=for-the-badge&color=1877F2" alt="Profile Views" />
 </p>
