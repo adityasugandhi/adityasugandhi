@@ -44,27 +44,62 @@ I don't build in a vacuum. Best code I've written came from sitting next to the 
 
 ---
 
-### GitHub Stats
+### What I've Shipped (End-to-End)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityasugandhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adityasugandhi&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasugandhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+**Building Automation Platform**
+> *Owned from problem discovery to production*
 
----
+Embedded with facility managers and operations teams. Built the entire stack from scratch — React/TypeScript frontend, Python backend, 37 REST APIs, real-time WebSocket streaming. Serves **35K+ devices** across **172 networks** with **99.2% accuracy**.
 
-### Some Numbers
+`Python` `React` `TypeScript` `PostgreSQL` `Redis` `WebSockets`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/85%25-Manual%20Process%20Reduction-1877F2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/35K%2B-Devices%20Managed-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/500K%2B-Events%2FDay-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/99.5%25-Uptime-8A2BE2?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/85%25-Manual%20Process%20Reduction-1877F2?style=flat-square" /> <img src="https://img.shields.io/badge/35K%2B-Devices-00C853?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+**AI Resume Optimization Platform**
+> *Agentic AI — concept to deployed product*
+
+Multi-agent system: job scanner, semantic matcher, resume optimizer. RAG pipelines with vector search, LLM orchestration via Groq, LaTeX compilation pipeline. Ships real PDFs, not demos.
+
+`TypeScript` `React` `Next.js` `Python` `LLMs` `Vector DBs`
+
+<img src="https://img.shields.io/badge/3%20AI%20Agents-Orchestrated-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-Production-FF6F61?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Enterprise Slack Bot**
+> *Deployed & running 24/7 in production*
+
+AI-powered chatbot integrated into company Slack via Socket Mode. Built tool/agent integrations with internal APIs for automated workflow management. Sub-40s response times, OAuth 2.0 security.
+
+`Python` `Node.js` `AWS EC2` `WebSockets` `PM2`
+
+<img src="https://img.shields.io/badge/24%2F7-Uptime-00C853?style=flat-square" /> <img src="https://img.shields.io/badge/%3C40s-Response%20Time-1877F2?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+**Distributed Data Pipeline**
+> *Event-driven microservices at scale*
+
+Kafka + Spark streaming on Kubernetes. Processing 500K+ events/day with exactly-once semantics, fault-tolerant async delivery, dead-letter queues. 99.5% availability through event-driven architecture.
+
+`Java` `Kafka` `Spark` `Kubernetes` `Docker`
+
+<img src="https://img.shields.io/badge/500K%2B-Events%2FDay-FF6F61?style=flat-square" /> <img src="https://img.shields.io/badge/99.5%25-Availability-8A2BE2?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
